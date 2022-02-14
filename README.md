@@ -1,29 +1,10 @@
 ### Привет! 👋
-#### Занимаюсь версткой, разработкой веб-страниц и приложений.
-## 
-
-
-
-## Контакты
-
-
-
-
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
-
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
-
-##### BIO
-
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+#### Front-end разработчик из Благовещенск, Россия
+##### Сейчас
+- 🎯 Прохожу обучение в Яндекс.Практикуме
+- 📕 Читаю "You don't know JS"
+##### О себе
+- 🌃 Локация: г.Благовещенск Амурская область - (UTC +9)
+- 🔧 Технологии: `HTML5` `CSS3` `BEM` `JavaScript ES6` `React` `Git` `Node.js` `Webpack` `Babel` `OOP` `VS Code` `Linux` `Bash` 
+- 💡 Навыки: `Английский язык` `Слепая печать` `Умение обучаться и обучать`
+- 📌 Контакты: 📬 `meatbot94@gmail.com` 📞 `89145698568`
