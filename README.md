@@ -7,4 +7,4 @@
 - 🌃 Локация: г.Благовещенск Амурская область - (UTC +9)
 - 🔧 Технологии: `HTML5` `CSS3` `BEM` `JavaScript ES6` `React` `Git` `Node.js` `Webpack` `Babel` `OOP` `VS Code` `Linux` `Bash` 
 - 💡 Навыки: `Английский язык` `Слепая печать` `Умение обучаться и обучать`
-- 📌 Контакты: 📬 `meatbot94@gmail.com` 📞 `89145698568`
+- 📌 Контакты: `meatbot94@gmail.com` `89145698568`
